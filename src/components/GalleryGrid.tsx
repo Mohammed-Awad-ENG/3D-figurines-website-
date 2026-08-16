@@ -1,4 +1,4 @@
-import React from 'react';
+
 
 const IMAGES = [
   { src: '/images/1.png', bg: '#F4845F', name: 'FLAME BOY' },
